@@ -1,6 +1,7 @@
 # EasyImageViewer
 
 An easy way to display images in a full-screen dialog, including pinch & zoom.
+It same as easy image viewer but with extra features like download and etc.
 
 [![Pub](https://img.shields.io/pub/v/easy_image_viewer.svg)](https://pub.dartlang.org/packages/easy_image_viewer)
 [![Tests](https://github.com/thesmythgroup/easy_image_viewer/actions/workflows/dart.yml/badge.svg)](https://github.com/thesmythgroup/easy_image_viewer/actions/workflows/dart.yml)
